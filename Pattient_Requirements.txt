@@ -1,0 +1,8 @@
+opencv-python
+dlib
+numpy
+time
+twilio
+mediapipe
+flask
+subproccess
